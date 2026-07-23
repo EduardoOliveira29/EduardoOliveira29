@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Eduardo Oliveira 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Sistemas de Informação na <b>FIAP</b> &nbsp;·&nbsp; 🚀 Criador da <a href="https://attenda.tec.br"><b>Attenda</b></a>
+  🎓 Estudante de Sistemas de Informação na <b>FIAP</b> &nbsp;·&nbsp; 💻 Dev em formação — dados, IA e desenvolvimento web
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação** na **FIAP** (2025 – 2028)
-- 💬 Criei a **[Attenda](https://attenda.tec.br)** — plataforma SaaS de chatbot inteligente para WhatsApp, **em produção**, com agendamentos, CRM e conformidade com a LGPD
+- 💬 Desenvolvo com um amigo a **[Attenda](https://attenda.tec.br)** — projeto de chatbot para WhatsApp, em produção
 - 🤖 Desenvolvo com **IA no fluxo de trabalho** (Claude Code) — do requisito à entrega
 - 📊 Apaixonado por **dados**: Python, SQL, PostgreSQL e Power BI
 - 🏥 Atualmente construindo o **UniCare+** — FIAP Challenge em parceria com a Unimed Nacional
@@ -53,7 +53,7 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Attenda](https://attenda.tec.br)** 🟢 em produção | Plataforma SaaS multi-tenant de atendimento automatizado para WhatsApp — agendamentos, CRM e conformidade com a LGPD | TypeScript · Next.js · PostgreSQL (Supabase + Drizzle ORM) · API Claude (Anthropic) · Z-API |
+| **[Attenda](https://attenda.tec.br)** 🟢 em produção | Chatbot para WhatsApp com agendamentos, CRM e conformidade com a LGPD — projeto pessoal | TypeScript · Next.js · PostgreSQL (Supabase + Drizzle ORM) · API Claude (Anthropic) · Z-API |
 | **UniCare+** 🚧 em desenvolvimento | Plataforma web de cuidado preventivo personalizado — FIAP Challenge × Unimed Nacional | Java · MySQL · HTML · CSS · JavaScript · Figma |
 
 > 📌 Em breve os repositórios dos projetos estarão fixados aqui no perfil.
