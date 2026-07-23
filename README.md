@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação** na **FIAP** (2025 – 2028)
-- 💬 Desenvolvo com um amigo a **[Attenda](https://attenda.tec.br)** — projeto de chatbot para WhatsApp, em produção
+- 💬 Atualmente desenvolvendo um Saas com um amigo a **[Attenda](https://attenda.tec.br)** — projeto de chatbot para WhatsApp, em produção
 - 🤖 Desenvolvo com **IA no fluxo de trabalho** (Claude Code) — do requisito à entrega
 - 📊 Apaixonado por **dados**: Python, SQL, PostgreSQL e Power BI
 - 🏥 Atualmente construindo o **UniCare+** — FIAP Challenge em parceria com a Unimed Nacional
