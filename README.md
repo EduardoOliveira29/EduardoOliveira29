@@ -9,8 +9,8 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação** na **FIAP** (2025 – 2028)
-- 💬 Atualmente desenvolvendo um Saas com um amigo a **[Attenda](https://attenda.tec.br)** — projeto de chatbot para WhatsApp, em produção
-- 🤖 Desenvolvo com **IA no fluxo de trabalho** (Claude Code) — do requisito à entrega
+- 💬 Desenvolvo com um amigo a **[Attenda](https://attenda.tec.br)** — projeto de chatbot para WhatsApp, em produção
+- 🤖 Uso IA como ferramenta no fluxo de desenvolvimento
 - 📊 Apaixonado por **dados**: Python, SQL, PostgreSQL e Power BI
 - 🏥 Atualmente construindo o **UniCare+** — FIAP Challenge em parceria com a Unimed Nacional
 - 🌎 Inglês avançado — **C1 certificado (EF SET)**
@@ -27,9 +27,7 @@
 
 **Desenvolvimento**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
@@ -40,7 +38,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### 📊 Estatísticas
 
@@ -53,7 +50,7 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **[Attenda](https://attenda.tec.br)** 🟢 em produção | Chatbot para WhatsApp com agendamentos, CRM e conformidade com a LGPD — projeto pessoal | TypeScript · Next.js · PostgreSQL (Supabase + Drizzle ORM) · API Claude (Anthropic) · Z-API |
+| **[Attenda](https://attenda.tec.br)** 🟢 em produção | Chatbot para WhatsApp com agendamentos, CRM e conformidade com a LGPD — projeto pessoal | TypeScript · Next.js · PostgreSQL (Supabase + Drizzle ORM) · API Claude (Anthropic) · Z-API · Vercel · Upstash · Sentry |
 | **UniCare+** 🚧 em desenvolvimento | Plataforma web de cuidado preventivo personalizado — FIAP Challenge × Unimed Nacional | Java · MySQL · HTML · CSS · JavaScript · Figma |
 
 > 📌 Em breve os repositórios dos projetos estarão fixados aqui no perfil.
