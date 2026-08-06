@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Eduardo Oliveira 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Sistemas de Informação na <b>FIAP</b> &nbsp;·&nbsp; 💻 Dev em formação — dados, IA e desenvolvimento web
+  🎓 Estudante de Sistemas de Informação na <b>FIAP</b> &nbsp;·&nbsp; 💻 Dev em formação — dados, IA e desenvolvimento
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🎓 Cursando **Sistemas de Informação** na **FIAP** (2025 – 2028)
 - 💬 Desenvolvo com um amigo a **[Attenda](https://attenda.tec.br)** — projeto de chatbot para WhatsApp, em produção
 - 🤖 Uso IA como ferramenta no fluxo de desenvolvimento
-- 📊 Apaixonado por **dados**: Python, SQL, PostgreSQL e Power BI
+- 📊 Interessado por **dados**: Python, SQL, PostgreSQL e Power BI
 - 🏥 Atualmente construindo o **UniCare+** — FIAP Challenge em parceria com a Unimed Nacional
 - 🌎 Inglês avançado — **C1 certificado (EF SET)**
 
