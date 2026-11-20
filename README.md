@@ -1,19 +1,42 @@
-# Eduardo Oliveira Pereira
+# Olá, eu sou o Eduardo Oliveira 👋
 
-Estudante de **Sistemas de Informação na FIAP** (conclusão em dez/2028). Busco estágio em **Dados e Business Intelligence**. Estudo SQL, Python, Power BI e Excel.
+Estudo **Sistemas de Informação na FIAP**, com previsão de conclusão em dezembro de 2028, e busco estágio em **Dados e Business Intelligence**. Na faculdade, meu contato com dados começou em projetos de Java e banco de dados. Hoje estudo SQL, Python e Power BI para responder perguntas sobre os registros que esses sistemas produzem.
 
-## Portfólio de Dados
+[Portfólio de dados](https://github.com/EduardoOliveira29/portfolio-dados) · [LinkedIn](https://www.linkedin.com/in/eduardo-oliveirapereira/)
 
-| Estudo | O que você encontra |
+## Análises que você pode reproduzir
+
+| Estudo | Pergunta e resultado |
 | --- | --- |
-| [Indicadores do Banco Central](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/indicadores-bcb) | Ingestão de API, validação de 72 meses e junção por mês em SQL |
-| [Agenda Analytics](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/agenda-analytics) | Análise de faltas em 2.400 agendamentos sintéticos, com KPIs por unidade e turno e um painel de estudo em Power BI |
+| [Faltas em agendamentos](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/agenda-analytics) | Como a escolha do denominador muda a taxa de faltas? Em 2.400 agendamentos fictícios, excluindo 229 cancelamentos, foram 320 faltas em 2.171 agendamentos elegíveis (14,74%). O projeto inclui consultas SQL e um painel de estudo em Power BI. |
+| [IPCA e Selic](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/indicadores-bcb) | Como comparar duas séries mensais? Um script em Python lê dados do Banco Central, verifica a cobertura de 72 meses e junta as séries por mês em SQL. Em dezembro de 2025, o IPCA foi de 0,33% no mês e 4,26% no acumulado de 12 meses. |
 
-Os estudos trazem código, testes, CSVs e gráficos. Foram preparados com assistência de IA para prática e revisão.
+Esses estudos foram preparados com assistência de IA. Os dados, as regras de cálculo e os testes estão disponíveis em cada pasta.
 
-## Outros projetos
+## Java, APIs e bancos de dados na FIAP
 
-- **UniCare+** — trabalho em equipe no FIAP Challenge com a Unimed Nacional. Contribuí com levantamento de requisitos, documentação e estruturação do banco. A entrega Sprint 4 usa Java, JDBC e Oracle Database.
-- **[Attenda](https://github.com/EduardoOliveira29/Attenda)** — plataforma de atendimento por WhatsApp e agendamentos, desenvolvida em dupla com assistência de IA. Minha atuação incluiu requisitos, priorização e validação de entregas.
+### [Defesa Ribeirinho · alertas e acolhimento](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/defesa-ribeirinho)
 
-**Inglês:** C1 (EF SET) · [LinkedIn](https://www.linkedin.com/in/eduardo-oliveirapereira/)
+MVP acadêmico em **Java 21, Spring Boot e JPA**, com H2 local e um perfil para Oracle. O fluxo começa com uma leitura manual do nível de água e acompanha o aviso às famílias, a confirmação e a entrada e saída do abrigo. O projeto documenta o fluxo em uma coleção Postman com 16 requisições.
+
+O repositório acadêmico é privado. No [exemplo público em Java](https://github.com/EduardoOliveira29/portfolio-dados/blob/main/defesa-ribeirinho/ResumoAbrigo.java), dá para mudar três registros fictícios e observar duas contagens diferentes: cada família confirma o aviso uma vez, mas ocupa uma vaga por pessoa acolhida.
+
+### UniCare+ · FIAP Challenge com a Unimed Nacional
+
+Projeto em equipe de cuidado preventivo. Minha contribuição incluiu levantamento de requisitos, documentação e estruturação do banco. Na Sprint 4, a aplicação em **Java** usa **JDBC** para acessar o **Oracle Database**. A entrega reúne o esquema SQL e dados fictícios para testar os fluxos.
+
+Em aula também trabalhei com o relacionamento entre vendedores e vendas em Java/JDBC. A [versão pública da consulta](https://github.com/EduardoOliveira29/portfolio-dados/blob/main/pratica-vendas.sql) mostra como associar os registros e totalizar vendas por vendedor.
+
+## Produto e trabalho em dupla
+
+**[Attenda](https://github.com/EduardoOliveira29/Attenda)** é um projeto de atendimento e agendamento pelo WhatsApp, desenvolvido em dupla com assistência de IA. Minha atuação incluiu requisitos, priorização e validação das entregas. O repositório público apresenta o produto.
+
+## Cursos e certificações
+
+| Formação | Instituição | Credencial |
+| --- | --- | --- |
+| Ingestão e Tratamento de Dados · 60 h | FIAP | [Ver certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=cf3cac5302840a174931bcb178be4636&action=view) |
+| Python · 80 h | FIAP | [Ver certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=a146b63c385878fb0bfc0ae7fbe6c5d8&action=view) |
+| Java Development · 60 h | FIAP | [Ver certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=d7a8269129a5275416da4e30f20626d7&action=view) |
+| Formação Social e Sustentabilidade · 80 h | FIAP | [Ver certificado](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=9afd3e3d19fd162df11eb99d5b4bcf5b&action=view) |
+| Inglês C1 Advanced · 67/100 | EF SET | [Ver certificado](https://cert.efset.org/en/4GPbew) |
