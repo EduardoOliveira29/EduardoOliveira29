@@ -27,9 +27,9 @@ Projeto em equipe de cuidado preventivo. Minha contribuição incluiu levantamen
 
 Em aula também trabalhei com o relacionamento entre vendedores e vendas em Java/JDBC. A [versão pública da consulta](https://github.com/EduardoOliveira29/portfolio-dados/blob/main/pratica-vendas.sql) mostra como associar os registros e totalizar vendas por vendedor.
 
-## Produto e trabalho em dupla
+## Projeto complementar
 
-**[Attenda](https://github.com/EduardoOliveira29/Attenda)** é um projeto de atendimento e agendamento pelo WhatsApp, desenvolvido em dupla com assistência de IA. Minha atuação incluiu requisitos, priorização e validação das entregas. O repositório público apresenta o produto.
+**[Attenda](https://github.com/EduardoOliveira29/Attenda)** é uma plataforma de atendimento, agenda e CRM que desenvolvo com dois colegas. Sou responsável pela programação, com código gerado por IA, e pela validação das funcionalidades. Meus colegas atuam principalmente no marketing.
 
 ## Cursos e certificações
 
