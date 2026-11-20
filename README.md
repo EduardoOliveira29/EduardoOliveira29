@@ -1,10 +1,10 @@
 # Olá, eu sou o Eduardo Oliveira 👋
 
-Estudo **Sistemas de Informação na FIAP**, com previsão de conclusão em dezembro de 2028, e busco estágio em **Dados e Business Intelligence**. Na faculdade, meu contato com dados começou em projetos de Java e banco de dados. Hoje estudo SQL, Python e Power BI para responder perguntas sobre os registros que esses sistemas produzem.
+Estudo **Sistemas de Informação na FIAP**, com previsão de conclusão em dezembro de 2028, e busco estágio em **Dados e Business Intelligence**. Minha base acadêmica é Java e Oracle. Nos estudos de dados, uso SQL, Python e Power BI para analisar indicadores.
 
 [Portfólio de dados](https://github.com/EduardoOliveira29/portfolio-dados) · [LinkedIn](https://www.linkedin.com/in/eduardo-oliveirapereira/) · [eduardooliveira0629@gmail.com](mailto:eduardooliveira0629@gmail.com)
 
-## Análises que você pode reproduzir
+## Projetos de análise de dados
 
 | Estudo | Pergunta e resultado |
 | --- | --- |
