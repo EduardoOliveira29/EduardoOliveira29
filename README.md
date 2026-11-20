@@ -6,8 +6,8 @@ Estudante de **Sistemas de Informação na FIAP** (conclusão em dez/2028). Busc
 
 | Estudo | O que você encontra |
 | --- | --- |
-| [Indicadores do Banco Central](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/indicadores-bcb) | Ingestão de API, validação de 72 meses e cálculo de variações acumuladas com SQL |
-| [Agenda Analytics](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/agenda-analytics) | Análise de faltas em 2.400 agendamentos sintéticos, com KPIs e segmentação por unidade e turno |
+| [Indicadores do Banco Central](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/indicadores-bcb) | Ingestão de API, validação de 72 meses e junção por mês em SQL |
+| [Agenda Analytics](https://github.com/EduardoOliveira29/portfolio-dados/tree/main/agenda-analytics) | Análise de faltas em 2.400 agendamentos sintéticos, com KPIs por unidade e turno e um painel de estudo em Power BI |
 
 Os estudos trazem código, testes, CSVs e gráficos. Foram preparados com assistência de IA para prática e revisão.
 
